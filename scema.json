@@ -1,3 +1,6 @@
+{
+    "schema": 
+
 [{
     "name": "TDate",
     "type": "date",
@@ -31,3 +34,4 @@
     "name": "DSS",
     "type": "number"
 }]
+}
