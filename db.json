@@ -122,7 +122,7 @@
                     "DSS": 2
                 },
                 {
-                    "TDate": "2016-01-17T12:00:00",
+                    "TDate": "13-02-2016",
                     "Condtn": "Loaded",
                     "CPSpeed": 12.0,
                     "CPFOC": 22.0,
@@ -132,7 +132,7 @@
                     "DSS": 2
                 },
                 {
-                    "TDate": "2016-01-18T12:00:00",
+                    "TDate": "14-02-2016",
                     "Condtn": "Loaded",
                     "CPSpeed": 12.0,
                     "CPFOC": 22.0,
@@ -142,7 +142,7 @@
                     "DSS": 2
                 },
                 {
-                    "TDate": "2016-01-19T18:00:00",
+                    "TDate": "15-02-2016",
                     "Condtn": "Loaded",
                     "CPSpeed": 12.0,
                     "CPFOC": 22.0,
@@ -152,7 +152,7 @@
                     "DSS": 2
                 },
                 {
-                    "TDate": "2016-01-23T12:00:00",
+                    "TDate": "16-02-2016",
                     "Condtn": "Ballast",
                     "CPSpeed": 13.0,
                     "CPFOC": 22.0,
@@ -162,7 +162,7 @@
                     "DSS": 2
                 },
                 {
-                    "TDate": "2016-01-24T12:00:00",
+                    "TDate": "17-02-2016",
                     "Condtn": "Ballast",
                     "CPSpeed": 13.0,
                     "CPFOC": 22.0,
@@ -172,7 +172,7 @@
                     "DSS": 2
                 },
                 {
-                    "TDate": "2016-01-25T12:00:00",
+                    "TDate": "18-02-2016",
                     "Condtn": "Ballast",
                     "CPSpeed": 13.0,
                     "CPFOC": 22.0,
@@ -182,7 +182,7 @@
                     "DSS": 2
                 },
                 {
-                    "TDate": "2016-01-26T12:00:00",
+                    "TDate": "19-02-2016",
                     "Condtn": "Ballast",
                     "CPSpeed": 13.0,
                     "CPFOC": 22.0,
@@ -192,7 +192,7 @@
                     "DSS": 2
                 },
                 {
-                    "TDate": "2016-01-27T12:00:00",
+                    "TDate": "20-02-2016",
                     "Condtn": "Ballast",
                     "CPSpeed": 13.0,
                     "CPFOC": 22.0,
@@ -202,7 +202,7 @@
                     "DSS": 2
                 },
                 {
-                    "TDate": "2016-01-28T12:00:00",
+                    "TDate": "21-02-2016",
                     "Condtn": "Ballast",
                     "CPSpeed": 13.0,
                     "CPFOC": 22.0,
@@ -212,7 +212,7 @@
                     "DSS": 2
                 },
                 {
-                    "TDate": "2016-01-29T12:00:00",
+                    "TDate": "22-02-2016",
                     "Condtn": "Ballast",
                     "CPSpeed": 13.0,
                     "CPFOC": 22.0,
@@ -222,7 +222,7 @@
                     "DSS": 2
                 },
                 {
-                    "TDate": "2016-01-30T20:00:00",
+                    "TDate": "23-02-2016",
                     "Condtn": "Ballast",
                     "CPSpeed": 13.0,
                     "CPFOC": 22.0,
