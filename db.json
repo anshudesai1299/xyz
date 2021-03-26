@@ -1,28 +1,9 @@
 {
     "users.json" :
     [
+               
                 {
-                    "TDate": "01-feb-2016",
-                    "Condtn": "Ballast",
-                    "CPSpeed": 13.0,
-                    "CPFOC": 22.0,
-                    "AvgSpeed": 12.46,
-                    "FuelCons": 11.54,
-                    "WindForce": 4,
-                    "DSS": 2
-                },
-                {
-                    "TDate": "02-feb-2016",
-                    "Condtn": "Ballast",
-                    "CPSpeed": 13.0,
-                    "CPFOC": 22.0,
-                    "AvgSpeed": 11.62,
-                    "FuelCons": 11.9,
-                    "WindForce": 6,
-                    "DSS": 2
-                },
-                {
-                    "TDate": "03-feb-2016",
+                    "TDate": "04-feb-2016",
                     "Condtn": "Ballast",
                     "CPSpeed": 13.0,
                     "CPFOC": 22.0,
@@ -32,7 +13,7 @@
                     "DSS": 2
                 },
                 {
-                    "TDate": "04-feb-2016",
+                    "TDate": "05-feb-2016",
                     "Condtn": "Ballast",
                     "CPSpeed": 13.0,
                     "CPFOC": 22.0,
@@ -42,7 +23,7 @@
                     "DSS": 2
                 },
                 {
-                    "TDate": "05-feb-2016",
+                    "TDate": "06-feb-2016",
                     "Condtn": "Ballast",
                     "CPSpeed": 13.0,
                     "CPFOC": 22.0,
@@ -52,7 +33,7 @@
                     "DSS": 2
                 },
                 {
-                    "TDate": "06-feb-2016",
+                    "TDate": "07-feb-2016",
                     "Condtn": "Ballast",
                     "CPSpeed": 13.0,
                     "CPFOC": 22.0,
@@ -60,27 +41,9 @@
                     "FuelCons": 11.44,
                     "WindForce": 5,
                     "DSS": 2
-                },
-                {
-                    "TDate": "07-feb-2016",
-                    "Condtn": "Ballast",
-                    "CPSpeed": 13.0,
-                    "CPFOC": 22.0,
-                    "AvgSpeed": 11.88,
-                    "FuelCons": 11.35,
-                    "WindForce": 2,
-                    "DSS": 2
-                },
-                {
-                    "TDate": "08-feb-2016",
-                    "Condtn": "Ballast",
-                    "CPSpeed": 13.0,
-                    "CPFOC": 22.0,
-                    "AvgSpeed": 11.62,
-                    "FuelCons": 11.9,
-                    "WindForce": 6,
-                    "DSS": 2
                 }
+                
+
                
     ]
   }
