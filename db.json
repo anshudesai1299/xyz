@@ -2,7 +2,7 @@
     "users.json" :
     [
                 {
-                    "TDate": "01-02-2016",
+                    "TDate": "01-feb-2016",
                     "Condtn": "Ballast",
                     "CPSpeed": 13.0,
                     "CPFOC": 22.0,
@@ -12,7 +12,7 @@
                     "DSS": 2
                 },
                 {
-                    "TDate": "02-02-2016",
+                    "TDate": "02-feb-2016",
                     "Condtn": "Ballast",
                     "CPSpeed": 13.0,
                     "CPFOC": 22.0,
@@ -22,7 +22,7 @@
                     "DSS": 2
                 },
                 {
-                    "TDate": "03-02-2016",
+                    "TDate": "03-feb-2016",
                     "Condtn": "Ballast",
                     "CPSpeed": 13.0,
                     "CPFOC": 22.0,
@@ -32,7 +32,7 @@
                     "DSS": 2
                 },
                 {
-                    "TDate": "04-02-2016",
+                    "TDate": "04-feb-2016",
                     "Condtn": "Ballast",
                     "CPSpeed": 13.0,
                     "CPFOC": 22.0,
@@ -42,7 +42,7 @@
                     "DSS": 2
                 },
                 {
-                    "TDate": "05-02-2016",
+                    "TDate": "05-feb-2016",
                     "Condtn": "Ballast",
                     "CPSpeed": 13.0,
                     "CPFOC": 22.0,
@@ -52,7 +52,7 @@
                     "DSS": 2
                 },
                 {
-                    "TDate": "06-02-2016",
+                    "TDate": "06-feb-2016",
                     "Condtn": "Ballast",
                     "CPSpeed": 13.0,
                     "CPFOC": 22.0,
@@ -62,7 +62,7 @@
                     "DSS": 2
                 },
                 {
-                    "TDate": "07-02-2016",
+                    "TDate": "07-feb-2016",
                     "Condtn": "Ballast",
                     "CPSpeed": 13.0,
                     "CPFOC": 22.0,
