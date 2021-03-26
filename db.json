@@ -3,7 +3,7 @@
     [
                
                 {
-                    "TDate": "04-feb-2016",
+                    "TDate": "04-feb-16",
                     "Condtn": "Ballast",
                     "CPSpeed": 13.0,
                     "CPFOC": 22.0,
@@ -13,7 +13,7 @@
                     "DSS": 2
                 },
                 {
-                    "TDate": "05-feb-2016",
+                    "TDate": "05-feb-16",
                     "Condtn": "Ballast",
                     "CPSpeed": 13.0,
                     "CPFOC": 22.0,
@@ -23,7 +23,7 @@
                     "DSS": 2
                 },
                 {
-                    "TDate": "06-feb-2016",
+                    "TDate": "06-feb-16",
                     "Condtn": "Ballast",
                     "CPSpeed": 13.0,
                     "CPFOC": 22.0,
@@ -33,7 +33,7 @@
                     "DSS": 2
                 },
                 {
-                    "TDate": "07-feb-2016",
+                    "TDate": "07-feb-16",
                     "Condtn": "Ballast",
                     "CPSpeed": 13.0,
                     "CPFOC": 22.0,
