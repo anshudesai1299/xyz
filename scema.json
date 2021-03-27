@@ -1,6 +1,26 @@
 {
     "users" :
     [
+        {
+            "TDate": "04-feb-11",
+            "Condtn": "Ballast",
+            "CPSpeed": 13.0,
+            "CPFOC": 22.0,
+            "AvgSpeed": 9.83,
+            "FuelCons": 11.68,
+            "WindForce": 6,
+            "DSS": 2
+        },
+        {
+            "TDate": "05-feb-11",
+            "Condtn": "Ballast",
+            "CPSpeed": 13.0,
+            "CPFOC": 22.0,
+            "AvgSpeed": 11.71,
+            "FuelCons": 11.84,
+            "WindForce": 6,
+            "DSS": 2
+        },
                 {
                     "TDate": "06-Feb-11",
                     "Condtn": "Ballast",
