@@ -51,7 +51,17 @@
                     "FuelCons": 11.68,
                     "WindForce": 6,
                     "DSS": 2
-                }
+                },
+                {
+                    "TDate": "Jun",
+                    "Condtn": "Ballast",
+                    "CPSpeed": 13.0,
+                    "CPFOC": 22.0,
+                    "AvgSpeed": 9.83,
+                    "FuelCons": 11.68,
+                    "WindForce": 6,
+                    "DSS": 2
+                },
                 
     ]
   }
