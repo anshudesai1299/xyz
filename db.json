@@ -1,67 +1,75 @@
 {
     "users.json" :
     [
-           
-		{
-            "TDate": "Jan",
-            "Condtn": "Ballast",
-            "CPSpeed": 13.0,
-            "CPFOC": 22.0,
-            "AvgSpeed": 9.83,
-            "FuelCons": 11.68,
-            "WindForce": 6,
-            "DSS": 2
+        {
+          "TDate": "2016-02-04",
+          "Condtn": "Ballast",
+          "CPSpeed": 13,
+          "CPFOC": 22,
+          "AvgSpeed": 9.83,
+          "FuelCons": 11.68,
+          "WindForce": 6,
+          "DSS": 2
         },
         {
-            "TDate": "Feb",
-            "Condtn": "Ballast",
-            "CPSpeed": 13.0,
-            "CPFOC": 22.0,
-            "AvgSpeed": 11.71,
-            "FuelCons": 11.84,
-            "WindForce": 6,
-            "DSS": 2
+          "TDate": "2016-02-05",
+          "Condtn": "Ballast",
+          "CPSpeed": 13,
+          "CPFOC": 22,
+          "AvgSpeed": 11.71,
+          "FuelCons": 11.84,
+          "WindForce": 6,
+          "DSS": 2
         },
-                {
-                    "TDate": "Mar",
-                    "Condtn": "Ballast",
-                    "CPSpeed": 13.0,
-                    "CPFOC": 22.0,
-                    "AvgSpeed": 12.46,
-                    "FuelCons": 11.54,
-                    "WindForce": 4,
-                    "DSS": 2
-                },
-                {
-                    "TDate": "Apr",
-                    "Condtn": "Ballast",
-                    "CPSpeed": 13.0,
-                    "CPFOC": 22.0,
-                    "AvgSpeed": 11.62,
-                    "FuelCons": 11.9,
-                    "WindForce": 6,
-                    "DSS": 2
-                },
-                {
-                    "TDate": "May",
-                    "Condtn": "Ballast",
-                    "CPSpeed": 13.0,
-                    "CPFOC": 22.0,
-                    "AvgSpeed": 9.83,
-                    "FuelCons": 11.68,
-                    "WindForce": 6,
-                    "DSS": 2
-                },
-                {
-                    "TDate": "Jun",
-                    "Condtn": "Ballast",
-                    "CPSpeed": 13.0,
-                    "CPFOC": 22.0,
-                    "AvgSpeed": 9.83,
-                    "FuelCons": 11.68,
-                    "WindForce": 6,
-                    "DSS": 2
-                }
-                
+        {
+          "TDate": "2016-02-06",
+          "Condtn": "Ballast",
+          "CPSpeed": 13,
+          "CPFOC": 22,
+          "AvgSpeed": 12.46,
+          "FuelCons": 11.54,
+          "WindForce": 4,
+          "DSS": 2
+        },
+        {
+          "TDate": "2016-02-07 ",
+          "Condtn": "Ballast",
+          "CPSpeed": 13,
+          "CPFOC": 22,
+          "AvgSpeed": 11.62,
+          "FuelCons": 11.9,
+          "WindForce": 6,
+          "DSS": 2
+        },
+        {
+          "TDate": "2016-02-08",
+          "Condtn": "Ballast",
+          "CPSpeed": 13,
+          "CPFOC": 22,
+          "AvgSpeed": 9.83,
+          "FuelCons": 11.68,
+          "WindForce": 6,
+          "DSS": 2
+        },
+        {
+          "TDate": "2016-02-09",
+          "Condtn": "Ballast",
+          "CPSpeed": 13,
+          "CPFOC": 22,
+          "AvgSpeed": 11.71,
+          "FuelCons": 11.84,
+          "WindForce": 6,
+          "DSS": 2
+        },
+        {
+          "TDate": "2016-02-10",
+          "Condtn": "Ballast",
+          "CPSpeed": 13,
+          "CPFOC": 22,
+          "AvgSpeed": 11.74,
+          "FuelCons": 11.67,
+          "WindForce": 6,
+          "DSS": 2
+        }
     ]
   }
